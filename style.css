@@ -1,0 +1,120 @@
+/* CSS Document */
+#logo{
+	width:960px;
+	height:200px;
+	background-color:#00F;
+	margin: auto;
+	background:url(images/logocyber.png);
+	}
+#conteneur{
+	width:970px;
+	margin:auto;
+	height:1500px;
+	}
+#menu{
+	width:auto;
+	height:36px;
+	background-color:skyblue;
+	margin:auto;
+	font-weight: bold;
+}
+#slide{
+	width:700px;
+	height:350px;
+	background-image:url(images/15.jpg);
+	margin:auto;
+	border: solid black 1px;
+	}
+#page{
+	width:960px;
+	height:1250px;
+	background-image:url(images/page.jpg);
+	margin:auto;
+	}
+.foot{
+	width:960px;
+	height:35px;
+	background-image:url(images/menuu.jpg);
+	margin:auto;
+	color:#FFF;
+	text-align: center;
+	}
+#presentation{
+	color:#000;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:justify;
+	width:900px;
+	height:auto;
+	margin:auto;
+	}
+#presentation_0{
+	color:#000;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:justify;
+	width:900px;
+	height:auto;
+	margin:auto;
+	}
+#presentation_1{
+	color:#000;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:justify;
+	width:250px;
+	height:auto;
+	float:left;
+	margin-right:25px;
+	margin-left:40px;
+}
+#presentation_2{
+	color:#000;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:justify;
+	width:250px;
+	height:auto;
+	float:left;
+	margin-right:25px;
+	}
+#presentation_3{
+	color:#000;
+	font-size:18px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:justify;
+	width:250px;
+	height:auto;
+	float:left;
+}
+div.presentation a:hover,
+div.presentation a:focus{
+	background-color:#06F;
+	color:#FFF;
+	}
+
+body{
+	background-image:url(images/background.jpg)
+}
+
+.table_contact{
+	width:400px;
+	margin:auto;
+	position:relative;
+	border-collapse:collapse;
+	background-color:transparent;
+}
+
+table {background:#fff; text-transform:none; }
+table td, table th {border:#e2e2e4 0px solid; border-collapse:collapse; }
+table th {width:122px; font-weight:bold; text-align:left; padding:15px 10px 8px 20px;}
+table td {padding:4px 5px 4px 10px;}
+
+.button {background:#353535; display:inline-block; font-size:20px; line-height:25px; color:#fff; font-weight:bold; font-family: 'Open Sans Condensed', sans-serif; padding:9px 30px 10px 30px;}
+.button:hover {background:#000;}
+
+.button-2 {background:#fff; display:inline-block; font-size:20px; line-height:25px; color:#353535; font-weight:bold; font-family: 'Open Sans Condensed', sans-serif; padding:9px 30px 10px 30px;}
+.button-2:hover {background:#000; color:#fff;}
+
+.button-3 {background:#fff; display:inline-block; font-size:16px; line-height:25px; color:#353535; font-weight:bold; font-family: 'Open Sans Condensed', sans-serif; padding:9px 30px 10px 30px;}
+.button-3:hover {background:#000; color:#fff; text-decoration:none;}
